@@ -163,11 +163,13 @@ h1{
 h3{
     font-size: 24px;
 }
-p, li{
+p, li, a{
     font-size: 22px;
 }
-li{
+li, a{
     font-weight: bolder;
+    color: black;
+    text-decoration: none;
 }
 h2{
     font-size: 28px;
